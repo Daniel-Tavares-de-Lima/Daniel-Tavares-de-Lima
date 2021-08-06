@@ -1,6 +1,6 @@
 - 👋 Oi, Meu nome é Daniel Tavares de Lima Marcelino
 - 👀 Meu objetivo é ser desenvolvedor Full Stack
-- 🌱 Estou atualmente aprendendo Javascript | HTML | CSS | React-Native | React | Python
+- 🌱 Estou atualmente aprendendo Javascript | HTML5 | CSS3 | React-Native | React | Python
 - 📫 Como entrar em contato comigo: danieltavareslima72@gmail.com
 
     <div>
