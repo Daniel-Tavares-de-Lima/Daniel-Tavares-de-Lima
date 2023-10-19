@@ -1,7 +1,7 @@
 - 👋 Oi, Meu nome é Daniel Tavares de Lima Marcelino
 - 👀 Meu objetivo é ser desenvolvedor Full Stack e programador especializado em Machine Learning.
 - 🌱 Estou atualmente estudando Javascript | HTML5 | CSS3 | React-Native | React | Python.
-- 👨‍🎓 Atualmente cursando Ciencia da Computação na UFRPE. (2/9).
+- 👨‍🎓 Atualmente cursando Ciencia da Computação na UFRPE. (3/9).
 - 📫 Como entrar em contato comigo: danieltavareslima72@gmail.com
 
     <div>
