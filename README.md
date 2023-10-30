@@ -1,5 +1,5 @@
 - 👋 Oi, Meu nome é Daniel Tavares de Lima Marcelino
-- 👀 Meu objetivo é ser desenvolvedor Java e programador especializado em Machine Learning(Python).
+- 👀 Meu objetivo é ser desenvolvedor Java e programador especializado em Machine Learning(Python) para Ciência de Dados. Faço WebSites com HTML/CSS E JavaScript apenas por diversão.
 - 🌱 Estou atualmente estudando Java | Python.
 - 👨‍🎓 Atualmente cursando Ciencia da Computação na UFRPE. (3/9).
 - 📫 Como entrar em contato comigo: danieltavareslima72@gmail.com
