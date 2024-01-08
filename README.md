@@ -1,6 +1,6 @@
 - 👋 Oi, Meu nome é Daniel Tavares de Lima Marcelino
-- 👀 Meu objetivo é ser desenvolvedor Java e programador especializado em Machine Learning(Python) para análise de Dados. 
-- 🌱 Estou atualmente estudando Java | Python | Biblioteca Pandas, sklearn para análises de grande quantidades de dados.
+- 👀 Meu objetivo é ser desenvolvedor Front-End com conhecimentos em Backend Java e programador especializado em Machine Learning(Python) para análise de Dados. 
+- 🌱 Estou atualmente estudando Java | Python | HTML| CSS| JavaScript| React | NodeJs.
 - 👨‍🎓 Atualmente cursando Ciencia da Computação na UFRPE. (3/9).
 - 📫 Como entrar em contato comigo: danieltavareslima72@gmail.com
 
