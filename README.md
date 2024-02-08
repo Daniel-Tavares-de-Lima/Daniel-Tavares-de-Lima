@@ -1,11 +1,14 @@
+<!--Titulo-->
 <h2 align="left">Olá Mundo! 👋</h2>
 
+<!--Gif-->
 ###
 
 <img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDQxa2hydnhub29xNTlkY3NjNG52aHdvajBsbjE1dHRjdGxodjFwbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fedryX7dMGMe6lgqDm/giphy.gif"  />
 
 ###
 
+<!--Linguagens-->
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
@@ -22,6 +25,7 @@
 
 ###
 
+<!--Contatos-->
 <div align="left">
   <a href="https://www.instagram.com/dan_tavarews/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
@@ -38,11 +42,11 @@
 </div>
 
 ###
-
+<!--Sobre mim-->
 <p align="left">- 👋 Oi, Meu nome é Daniel Tavares de Lima Marcelino<br>- 👀 Meu objetivo é ser desenvolvedor Front-End com conhecimentos em Backend Java e programador especializado em Machine Learning(Python) para análise de Dados. <br>- 🌱 Estou atualmente estudando Java | Python | HTML| CSS| JavaScript| React | NodeJs.<br>- 👨‍🎓 Atualmente cursando Ciencia da Computação na UFRPE. (3/9).<br>- 📫 Como entrar em contato comigo: danieltavareslima72@gmail.com</p>
 
 ###
-
+<!--Dados-->
    <div>
   <a href="https://github.com/Daniel-Tavares-de-Lima">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Daniel-Tavares-de-Lima&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
