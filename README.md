@@ -1,8 +1,8 @@
-<h2 align="left">Olá Mundo!👋</h2>
+<h2 align="left">Olá Mundo! 👋</h2>
 
 ###
 
-<p align="left">- 👋 Oi, Meu nome é Daniel Tavares de Lima Marcelino<br>- 👀 Meu objetivo é ser desenvolvedor Front-End com conhecimentos em Backend Java e programador especializado em Machine Learning(Python) para análise de Dados. <br>- 🌱 Estou atualmente estudando Java | Python | HTML| CSS| JavaScript| React | NodeJs.<br>- 👨‍🎓 Atualmente cursando Ciencia da Computação na UFRPE. (3/9).<br>- 📫 Como entrar em contato comigo: danieltavareslima72@gmail.com</p>
+<img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDQxa2hydnhub29xNTlkY3NjNG52aHdvajBsbjE1dHRjdGxodjFwbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fedryX7dMGMe6lgqDm/giphy.gif"  />
 
 ###
 
@@ -39,6 +39,13 @@
 
 ###
 
-<img align="right" height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDQxa2hydnhub29xNTlkY3NjNG52aHdvajBsbjE1dHRjdGxodjFwbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fedryX7dMGMe6lgqDm/giphy.gif"  />
+<p align="left">- 👋 Oi, Meu nome é Daniel Tavares de Lima Marcelino<br>- 👀 Meu objetivo é ser desenvolvedor Front-End com conhecimentos em Backend Java e programador especializado em Machine Learning(Python) para análise de Dados. <br>- 🌱 Estou atualmente estudando Java | Python | HTML| CSS| JavaScript| React | NodeJs.<br>- 👨‍🎓 Atualmente cursando Ciencia da Computação na UFRPE. (3/9).<br>- 📫 Como entrar em contato comigo: danieltavareslima72@gmail.com</p>
 
 ###
+
+   <div>
+  <a href="https://github.com/Daniel-Tavares-de-Lima">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Daniel-Tavares-de-Lima&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-Tavares-de-Lima&layout=compact&langs_count=7&theme=tokyonight"/>
+
+</div>
