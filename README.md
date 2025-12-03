@@ -1,57 +1,33 @@
-<!--Titulo-->
-<h2 align="left">Olá Mundo! 👋</h2>
+👋 Olá, eu sou Daniel Tavares
 
-<!--Gif-->
-###
+Desenvolvedor Fullstack Javascript | Nodejs | Sequelize | Vuejs | Mysql | Docker
 
-<img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDQxa2hydnhub29xNTlkY3NjNG52aHdvajBsbjE1dHRjdGxodjFwbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fedryX7dMGMe6lgqDm/giphy.gif"  />
 
-###
 
-<!--Linguagens-->
-<div align="left">
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sequelize/sequelize-original.svg" height="30" alt="sequelize logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" height="30" alt="nodejs logo"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"/>
-  <img width="12" />
-</div>
-  
-###
+🛠️ Tecnologias e Ferramentas
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sequelize/sequelize-original.svg" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original-wordmark.svg" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" height="40" /> 
+🚀 Sobre Mim
 
-<!--Contatos-->
-<div align="left">
-  <a href="https://www.instagram.com/dan_tavarews/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="ID: 440885903725035520" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
-  <a href="mailto:danieltavareslima72@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/danieltavareslima/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
+🎓 Atualmente curso Ciência da Computação na UFRPE (6/9).
+🎓 Também curso Análise e Desenvolvimento de Sistemas (Senac – 4/5).
+💻  Apaixonado por tecnologia, sempre buscando aprender algo novo e aprimorar minhas habilidades.
+🤖 Focado em aprender ainda mais as tecnologias que eu uso
+🌱 Sempre aprendendo algo novo e buscando evoluir como desenvolvedor.
 
-###
-<!--Sobre mim-->
-<p align="left">- 👋 Oi, Meu nome é Daniel Tavares de Lima Marcelino<br>- 👀 Meu objetivo é ser desenvolvedor Backend Java e programador especializado em Machine Learning(Python) para análise de Dados. <br>- 🌱 Estou atualmente estudando Java | Python | Conceitos de Machine Learning.<br>- 👨‍🎓 Atualmente cursando Ciencia da Computação na UFRPE. (4/9).<br>- 👨‍🎓 Cursando Análise e Desenvolvimento de Sistemas(FAC SENAC) (1/6). <br> -📫 Como entrar em contato comigo: danieltavareslima72@gmail.com</p>
+📊 Minhas Estatísticas
+<div> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Daniel-Tavares-de-Lima&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-Tavares-de-Lima&layout=compact&langs_count=7&theme=tokyonight"/> </div>
+📂 Alguns dos meus Projetos
 
-###
-<!--Dados-->
-   <div>
-  <a href="https://github.com/Daniel-Tavares-de-Lima">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Daniel-Tavares-de-Lima&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-Tavares-de-Lima&layout=compact&langs_count=7&theme=tokyonight"/>
+🔢 Projetos em Nodejs, Sequelize, Docker – APIs Rest, API de uma plataforma HelpDesk, estruturas de dados.
+📊 Projetos de Machine Learning – Modelos iniciais para análise e previsão de dados.
+🌐 Projetos em JavaScript/Node.js/Vuejs – Aplicações backend/Frontend para melhoria da plataforma de tickets
+🗄️ Projetos com MySQL/Sequelize – Modelagem e manipulação de dados.
 
-</div>
+📫 Contato
+
+📧 E-mail: danieltavareslima72@gmail.com
+
+💼 **LinkedIn:** [Daniel Tavares](https://www.linkedin.com/in/danieltavareslima/)
+📸 Instagram: @dan_tavarews
+
+⭐ Sinta-se à vontade para explorar meus repositórios e chamar para colaborar!
