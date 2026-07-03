@@ -16,7 +16,7 @@
 
 ## 🚀 Sobre Mim
 - 🎓 Atualmente curso **Ciência da Computação na UFRPE (6/9)**  
-- 🎓 Também curso **Análise e Desenvolvimento de Sistemas – Senac (4/5)**  
+- 🎓 Formado em **Análise e Desenvolvimento de Sistemas – Senac**  
 - 💻 Apaixonado por tecnologia, sempre buscando aprender algo novo e aprimorar minhas habilidades  
 - 🤖 Focado em aprofundar ainda mais as tecnologias que uso no dia a dia  
 - 🌱 Sempre buscando evoluir como desenvolvedor  
