@@ -1,10 +1,10 @@
 # 👋 Olá! Eu sou Daniel Tavares
 
-### Desenvolvedor de Software | Full Stack | Java | Spring Boot | JavaScript | TypeScript
+### Desenvolvedor de Software | Full Stack | Java | Spring Boot | JavaScript | TypeScript | Python
 
 Sou desenvolvedor de software interessado na construção de aplicações, APIs, automações e soluções que resolvam problemas reais. Tenho experiência prática com desenvolvimento Full Stack, sistemas corporativos, integração entre serviços e trabalho colaborativo utilizando Git. 
 
-Atualmente, também venho aprofundando meus conhecimentos em **Java e Spring Boot**, com foco no desenvolvimento de APIs e aplicações corporativas.
+Atualmente, também venho aprofundando meus conhecimentos em **Java e Spring Boot**, **TypeScript e Python** com foco no desenvolvimento de APIs e aplicações corporativas.
 
 ---
 
@@ -14,7 +14,7 @@ Atualmente, também venho aprofundando meus conhecimentos em **Java e Spring Boo
 - 🎓 Tecnólogo em **Análise e Desenvolvimento de Sistemas**
 - 💼 Experiência com desenvolvimento e manutenção de aplicações corporativas
 - 🔧 Interesse em Back-end, APIs, arquitetura de software e sistemas escaláveis
-- ☕ Estudando e aprofundando conhecimentos em **Java e Spring Boot**
+- ☕ Estudando e aprofundando conhecimentos em **Java e Spring Boot**, **TypeScript e Python**.
 - 🤖 Experiência e interesse em **Inteligência Artificial, LLMs e automação**
 - 🌱 Sempre buscando aprender, construir projetos e evoluir tecnicamente
 
